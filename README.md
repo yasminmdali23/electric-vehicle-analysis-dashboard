@@ -15,6 +15,8 @@ A clean, dark-themed Power BI data analytics dashboard monitoring global electri
 * **CAFV Eligibility Analysis:** Donut chart tracking Clean Alternative Fuel Vehicle status partitions (showing 46.32% meeting clear eligibility metrics).
 * **Product Line Tree Map:** Hierarchical tree map categorizing top EV models, highlighting the extreme adoption rates of Model Y (29K) and Model 3 (28K).
 
+![EV Dashboard](Screenshot 2026-05-27 151751.png)
+
 ## 🛠️ Tools & Technologies
 * **Power BI Desktop:** Tree Mapping, Conditional formatting themes, Advanced DAX, and Data Modeling.
 
